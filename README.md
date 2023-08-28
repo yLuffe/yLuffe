@@ -1,4 +1,4 @@
-# Luiz Fernando Kuhn
+# Luiz Fernando
 Estudante de Ciência da Computação na Universidade do Sul de Santa Catarina (Unisul) 🎓, e bolsista 100% 🌟. Atualmente, estou focado em aprender e aprimorar minhas habilidades em programação, principalmente em Java ☕.
 
 ## Meus Projetos
