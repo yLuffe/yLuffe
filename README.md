@@ -1,11 +1,10 @@
-# Olá, eu sou o Luiz Fernando Kuhn! 👋
-Estudante de Ciência da Computação na Universidade do Sul de Santa Catarina (Unisul) 🎓, onde tenho a honra de ser bolsista 100% 🌟. Atualmente, estou focado em aprender e aprimorar minhas habilidades em programação Java ☕.
+# Luiz Fernando Kuhn
+Estudante de Ciência da Computação na Universidade do Sul de Santa Catarina (Unisul) 🎓, e bolsista 100% 🌟. Atualmente, estou focado em aprender e aprimorar minhas habilidades em programação, principalmente em Java ☕.
 
-Aqui estão alguns dos meus projetos no GitHub. Sinta-se à vontade para explorar!
-
-## Meus Repositórios
+## Meus Projetos
 1. [Gerenciador de Tarefas](https://github.com/yLuffe/Gerenciador-de-Tarefas) - Uma aplicação para gerenciar suas tarefas diárias de forma eficiente.
-2. [Unisul EmprestimoDeFerramentasApp](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp) - Uma aplicação voltada para a gestão de empréstimo de ferramentas, desenvolvida durante meu curso na UNISUL.
+2. [Empréstimo De Ferramentas](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp) - Uma aplicação voltada para a gestão de empréstimo de ferramentas, desenvolvida durante a graduação de Ciência da Computação.
+
 ## Sobre Mim
 
 - 🔭 Atualmente estou explorando o mundo da programação Java e trabalhando em projetos acadêmicos.
@@ -13,7 +12,7 @@ Aqui estão alguns dos meus projetos no GitHub. Sinta-se à vontade para explora
 - 👯 Estou aberto a colaborações e adoraria contribuir para projetos de código aberto.
 - 📫 Você pode entrar em contato comigo pelo meu [e-mail](mailto:luizfernandokuhn@hotmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/luizfernandokuhn/).
 
-## Let's Connect!
+## Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandokuhn/)](https://www.linkedin.com/in/luizfernandokuhn/)
 [![Email](https://img.shields.io/badge/Email-luizfernandokuhn%40hotmail.com-blue)](mailto:luizfernandokuhn@hotmail.com)
 
