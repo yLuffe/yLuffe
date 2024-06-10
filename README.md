@@ -1,21 +1,23 @@
 # Luiz Fernando
-Estudante de Ciência da Computação na Universidade do Sul de Santa Catarina (Unisul) 🎓, e bolsista 100% 🌟. Atualmente, estou focado em aprender e aprimorar minhas habilidades em programação, principalmente em Java ☕.
 
-## Meus Projetos
-1. [Gerenciador de Tarefas](https://github.com/yLuffe/Gerenciador-de-Tarefas) - Uma aplicação para gerenciar suas tarefas diárias de forma eficiente.
-2. [Empréstimo De Ferramentas](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp) - Uma aplicação voltada para a gestão de empréstimo de ferramentas, desenvolvida durante a graduação de Ciência da Computação.
+Computer Science student at Universidade do Sul de Santa Catarina (Unisul) 🎓, with a 100% scholarship 🌟. Currently, I'm focused on learning and improving my programming skills, especially in Java ☕.
 
-## Sobre Mim
+## My Projects
+1. [Task Manager](https://github.com/yLuffe/Gerenciador-de-Tarefas) - An application to efficiently manage your daily tasks.
+2. [Tool Loan](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp) - An application focused on tool loan management, developed during my Computer Science degree.
 
-- 🔭 Atualmente estou explorando o mundo da programação Java e trabalhando em projetos acadêmicos.
-- 🌱 Estou aprendendo constantemente e buscando oportunidades para aplicar meus conhecimentos em projetos reais.
-- 👯 Estou aberto a colaborações e adoraria contribuir para projetos de código aberto.
-- 📫 Você pode entrar em contato comigo pelo meu [e-mail](mailto:luizfernandokuhn@hotmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/luizfernandokuhn/).
+## About Me
 
-## Vamos Conectar!
+- 🔭 I am currently exploring the world of Java programming and working on academic projects.
+- 🌱 I am constantly learning and seeking opportunities to apply my knowledge to real projects.
+- 👯 I am open to collaborations and would love to contribute to open-source projects.
+- 📫 You can contact me via my [email](mailto:luizfernandokuhn@hotmail.com) or through [LinkedIn](https://www.linkedin.com/in/luizfernandokuhn/).
+
+## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandokuhn/)](https://www.linkedin.com/in/luizfernandokuhn/)
 [![Email](https://img.shields.io/badge/Email-luizfernandokuhn%40hotmail.com-blue)](mailto:luizfernandokuhn@hotmail.com)
 
-Estou sempre aberto a novas oportunidades e conexões. Se você está interessado em projetos, colaborações ou apenas quer bater um papo sobre programação, sinta-se à vontade para entrar em contato comigo!
+I am always open to new opportunities and connections. If you are interested in projects, collaborations, or just want to chat about programming, feel free to contact me!
 
-Vamos aprender e crescer juntos! 🚀
+Let's learn and grow together! 🚀
+"""
