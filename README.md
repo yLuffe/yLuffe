@@ -20,4 +20,9 @@ Computer Science student at Universidade do Sul de Santa Catarina (Unisul) 🎓,
 I am always open to new opportunities and connections. If you are interested in projects, collaborations, or just want to chat about programming, feel free to contact me!
 
 Let's learn and grow together! 🚀
-"""
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLuffe&layout=compact&theme=dark" alt="Your Repository's Languages" />
+</div>
