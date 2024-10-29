@@ -1,6 +1,6 @@
 # Luiz Fernando
 
-Computer Science student at Universidade do Sul de Santa Catarina (Unisul) 🎓, with a 100% scholarship 🌟. Currently, I'm focused on learning and improving my programming skills, especially in Python and Java ☕.
+Computer Science student at Universidade do Sul de Santa Catarina (Unisul) 🎓, with a 100% scholarship 🌟. Currently, I'm focused on learning and improving my programming skills, especially in Python 🐍 and Java ☕.
 
 ## My Projects
 1. [Task Manager](https://github.com/yLuffe/Gerenciador-de-Tarefas) - An application to efficiently manage your daily tasks.
