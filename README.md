@@ -2,6 +2,16 @@
 
 Computer Science student at Universidade do Sul de Santa Catarina (Unisul) 🎓, with a 100% scholarship 🌟. Currently, I'm focused on learning and improving my programming skills, especially in Python 🐍 and Java ☕.
 
+### 💻 Technologies & Tools  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+</p>
+
 ## My Projects
 1. [Task Manager](https://github.com/yLuffe/Gerenciador-de-Tarefas) - An application to efficiently manage your daily tasks.
 2. [Tool Loan](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp) - An application focused on tool loan management, developed during my Computer Science degree.
@@ -18,6 +28,7 @@ Computer Science student at Universidade do Sul de Santa Catarina (Unisul) 🎓,
 [![Email](https://img.shields.io/badge/Email-luizfernandokuhn%40hotmail.com-blue)](mailto:luizfernandokuhn@hotmail.com)
 
 I am always open to new opportunities and connections. If you are interested in projects, collaborations, or just want to chat about programming, feel free to contact me!
+
 
 Let's learn and grow together! 🚀
 
